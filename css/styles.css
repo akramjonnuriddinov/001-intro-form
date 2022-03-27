@@ -176,6 +176,10 @@ only screen and (min-resolution: 2dppx) {
     width: 100%;
 }
 
+.form-input:focus {
+    border-bottom: 1px solid #000;
+}
+
 .form-input-last {
     margin-bottom: 63px;
 }
